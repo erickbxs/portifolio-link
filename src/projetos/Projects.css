@@ -1,0 +1,33 @@
+.projects {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .project-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  article {
+    flex-basis: calc(33.33% - 20px);
+    margin: 10px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  h3 {
+    margin-top: 0;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+    margin: 10px 0;
+  }
+  
+  p {
+    margin-bottom: 0;
+  }
+  
