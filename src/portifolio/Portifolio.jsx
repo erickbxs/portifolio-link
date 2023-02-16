@@ -22,7 +22,7 @@ function Portfolio() {
         </div>
 
         <div className="portfolio-item">
-          <h2 className="portfolio-item-title">SEO para Site de Clínica Médica</h2>
+          <h2 className="portfolio-item-title">Criação de site para Site de Clínica Médica</h2>
           <img className="portfolio-item-image" src=" " alt="trabalho de Clínica Médica" />
           <p className="portfolio-item-description">Descrição do trabalho de Clínica Médica</p>
         </div>
